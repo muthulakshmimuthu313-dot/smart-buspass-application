@@ -1,0 +1,7 @@
+{
+  "name": "SmartBus Pass Manager",
+  "description": "A premium, modern bus pass management system for students featuring online applications, easy renewals, digital QR-based passes, and payment tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
